@@ -1,0 +1,5 @@
+2025-08-02 16:32:46,420 - __main__ - INFO - MCP 서버 시작 중...
+2025-08-02 16:33:49,730 - mcp.server.lowlevel.server - INFO - Processing request of type ListToolsRequest
+2025-08-02 16:33:57,486 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-02 16:34:05,226 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
+2025-08-02 16:34:14,731 - mcp.server.lowlevel.server - INFO - Processing request of type CallToolRequest
